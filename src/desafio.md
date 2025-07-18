@@ -1,0 +1,1 @@
+console.log("o Senhor é o meu pastor)
